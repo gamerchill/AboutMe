@@ -7,5 +7,10 @@ Thanks for viewing my profile. I'll have open source respositories to showcase m
   
 <h2 align="center"> About me </h2>
 
-```Java
-String name = "Chill";```
+```
+if user !== chill:
+  break
+else:
+print("epic")
+
+```
